@@ -1,4 +1,4 @@
-- 🌱 I’m currently learning golang, distributed systems.
+- 🌱 I’m currently building event mesh platform.
 
 <!---
 kumarchandan/kumarchandan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
