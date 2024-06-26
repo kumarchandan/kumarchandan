@@ -1,4 +1,4 @@
-- 🌱 I’m currently building event mesh platform.
+- 🌱 Hi there!
 
 <!---
 kumarchandan/kumarchandan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
